@@ -2,5 +2,5 @@
 ___
 ## Лабораторная работа №6 на Python.
 ___
-
+Работа с графикой Python с помощью Turtle.
 ![Screenshot](screenshot.PNG)
